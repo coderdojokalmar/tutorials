@@ -1,6 +1,8 @@
 Gör en animerad hälsning!
 =========================
 
+Om du inte har gjort ett konto ännu kan du gå till [start](starta.md)
+
 Byt ut katten mot ett huvud.
 ------------------------------
  * Högerklicka på katten och välj radera.
