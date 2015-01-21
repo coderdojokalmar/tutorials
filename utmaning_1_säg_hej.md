@@ -37,3 +37,7 @@ Vi vill att huvudet ska kunna vicka på sig, för att det ska kunna göra det m�
 
  * Flytta ansiktet så att det är precis ovanför mitten på den schackrutiga bakgrunden, det finns ett litet pluss i mitten men det är svårt att se.
  * Om ansiktet är för stort kan man skala om det genom att dra i hörnen på den blå "välj"-rutan.
+
+Om ni är flera kan ni skapa nya sprites så att ni alla har var sitt ansikte
+
+Om du är klar så Gå vidare till [Animera Ansikte](animera_ansikte.md)
