@@ -3,14 +3,14 @@ Starta här!
 
 Det här dokumentet beskriver hur man kommer igång
 
-1. Gå till scratch.mit.edu
+Gå till scratch.mit.edu
 --------------------------
 http://scratch.mit.edu/
 
 Att byta språk till svenska gör man allra längst ner på sidan.
 ![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/byt_spr%C3%A5k_p%C3%A5_hemsidan.png)
 
-2. Skapa konto och logga in
+Skapa konto och logga in
 ---------------------------
 
  * Om du inte har ett konto, Klicka på "Gå med Scratch" .
@@ -25,8 +25,8 @@ Välj sedan ett lösenord, det ska vara hemligt så berätta inte för någon. S
 
  * Om du har ett konto, klicka på Logga in.
  
-3. Gör den första övningen.
-4. ------------------------
+Gör den första övningen.
+------------------------
 http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 
 Om den är på Engelska kan du byta språk om du klickar på den lilla jordgloben
