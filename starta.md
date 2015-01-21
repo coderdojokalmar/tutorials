@@ -36,3 +36,5 @@ Om den är på Engelska kan du byta språk om du klickar på den lilla jordglobe
 Nu finns en övning som heter "Kom igång med Scratch" till höger i fönstret. Övningen har 13 steg.
 
 Klicka på "1. Börja med rörelse"
+
+![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/f%C3%B6rsta_%C3%B6vningen.png)

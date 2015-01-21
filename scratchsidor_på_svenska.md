@@ -2,9 +2,16 @@ Scratch hemsida
 ===============
 http://scratch.mit.edu/
 
+Åsa Kronkvist - gör egna spel och berättelser
+=============================================
+https://www.youtube.com/watch?v=ZGpftrraTXg&list=FLCHnXXQIy0UKgqIs6GZA1vA
+
+
 scratchprogrammering.blogspot.se
 ================================
 http://scratchprogrammering.blogspot.se/
+
+
 
 Att byta språk
 --------------
