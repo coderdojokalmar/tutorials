@@ -8,7 +8,7 @@ Det här dokumentet beskriver hur man kommer igång
 http://scratch.mit.edu/
 
 Att byta språk till svenska gör man allra längst ner på sidan.
-![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/byt_spr%C3%A5k_p%C3%A5_hemsidan.png =250x)
+![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/byt_spr%C3%A5k_p%C3%A5_hemsidan.png =250x100)
 
 2. Skapa konto och logga in
 ---------------------------
