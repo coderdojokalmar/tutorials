@@ -44,10 +44,22 @@ För att få huvudet att vicka måste vi vänta lite mellan de två olika vänd-
 
  * För att starta upp skriptet lite lättare drar vi sedan ut en händelse från "Händelser"
  * Dra ut en "När (Grön Flagga) klickas på" pusselbit och koppla ovanför "för alltid"
- * Klicka sedan på flaggan!
+ * Klicka sedan på flaggan! Då startar skriptet, för att stanna skriptet, klicka på röd stopknapp
 
 ![](https://github.com/dntoll/scratch_coderdojo/blob/master/bilder/n%C3%A4r_flagga_klickas_p%C3%A5.png)
  
+
+Sätt startriktning
+------------------
+
+Mitt huvud har nu blivit ganska snett och vickar därför ganska snett. Vi behöver då ändra riktningen som huvudet får när programmet startar.
+
+ * Dra ut ett blått "peka i 90 riktning" block och placera mellan "när flagga klickas på" och för alltid. Det kommer nu ske innan huvudet börjar vicka.
  
+ ![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/starta_i_90_grader.png)
+
+Det är nu dags att spara igen.
+ * Välj Arkiv | Spara nu
+
 
 
