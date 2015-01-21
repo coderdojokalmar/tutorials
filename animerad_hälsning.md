@@ -42,4 +42,8 @@ Vi vill att huvudet ska kunna vicka på sig, för att det ska kunna göra det m�
 
 Om ni är flera kan ni skapa nya sprites så att ni alla har var sitt ansikte
 
+Det är nu dags att spara igen.
+
+Välj Arkiv | Spara nu
+
 Om du är klar så Gå vidare till [Animera Ansikte](animera_ansikte.md)
