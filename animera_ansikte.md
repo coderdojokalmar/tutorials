@@ -1,4 +1,4 @@
-Om du inte har gjort ett ansikte ännu så gå tillbaka till [, ta en bild](animerad_hälsning.md)
+Om du inte har gjort ett ansikte ännu så gå tillbaka till: [ta en bild](animerad_hälsning.md)
 
 Nu ska vi få ditt ansikte att röra sig!
 =======================================
