@@ -39,4 +39,15 @@ För att få huvudet att vicka måste vi vänta lite mellan de två olika vänd-
  * klicka sedan på för alltid.
  * Nu rycker huvudet till en gång i sekunden.
  * Dra sedan ut en till "vänta 1 sekunder" efter det andra blå blocket så att du innanför för alltid har blå, gul, blå gul
+ 
+ ![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/fram_och_tillbaka.png)
+
+ * För att starta upp skriptet lite lättare drar vi sedan ut en händelse från "Händelser"
+ * Dra ut en "När (Grön Flagga) klickas på" pusselbit och koppla ovanför "för alltid"
+ * Klicka sedan på flaggan!
+
+![](https://github.com/dntoll/scratch_coderdojo/blob/master/bilder/n%C3%A4r_flagga_klickas_p%C3%A5.png)
+ 
+ 
+
 
