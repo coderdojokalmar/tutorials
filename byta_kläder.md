@@ -29,3 +29,14 @@ Nu ska vi koppla ihop huvudet och få kroppen att röra sig!
  
 ![](https://github.com/dntoll/scratch_coderdojo/blob/master/bilder/nya_kl%C3%A4der.png)
  
+Fantastiskt! 
+
+Nu är det dags att spara och sedan göra din animering extra fin!
+
+Jag la till en hälsning och ett extra huvud på min, du kan kolla min hälsning här!
+
+Men du kanske vill lägga till en bakgrund, några ljud eller så!
+
+Säg till en mentor när du är färdig så att vi får se!
+
+
