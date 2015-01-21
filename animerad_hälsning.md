@@ -1,9 +1,9 @@
-Gör en animerad hälsning!
+Utmaning 1 en animerad hälsning!
 =========================
 
 Om du inte har gjort ett konto ännu kan du gå till [start](starta.md)
 
-Byt ut katten mot ett huvud.
+Ta en bild och byt ut katten mot ett huvud.
 ------------------------------
  * Högerklicka på katten och välj radera.
  * Välj sedan den lilla kameran (Ny sprite från kameran).
