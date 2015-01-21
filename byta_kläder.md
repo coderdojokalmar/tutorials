@@ -33,10 +33,15 @@ Fantastiskt!
 
 Nu är det dags att spara och sedan göra din animering extra fin!
 
-Jag la till en hälsning och ett extra huvud på min, du kan kolla min hälsning här!
+Jag la till en hälsning och ett extra huvud i min hälsning!
+Du kan titta på min här: http://scratch.mit.edu/projects/44181530/
 
-Men du kanske vill lägga till en bakgrund, några ljud eller så!
+Men du kanske vill lägga till en fin bakgrund, några ljud eller så!
 
-Säg till en mentor när du är färdig så att vi får se!
+Säg till en mentor när du är färdig så att vi får se och kan lägga till den till vår studio!
+
+http://scratch.mit.edu/studios/859906/
+
+
 
 
