@@ -1,6 +1,10 @@
 Utmaning 1 en animerad hälsning!
 =========================
 
+Nu skall vi göra en animerad hälsning som visar vem du är och vad du gillar!
+
+Du kan titta på min här: http://scratch.mit.edu/projects/44181530/
+
 Om du inte har gjort ett konto ännu kan du gå till [start](starta.md)
 
 Ta en bild och byt ut katten mot ett huvud.
