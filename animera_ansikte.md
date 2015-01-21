@@ -58,8 +58,16 @@ Mitt huvud har nu blivit ganska snett och vickar därför ganska snett. Vi behö
  
  ![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/starta_i_90_grader.png)
 
+Utmaning
+--------
+Kan du få huvudet att först vicka åt höger, sedan tillbaka till mitten och sedan till vänster?
+
+
 Det är nu dags att spara igen.
  * Välj Arkiv | Spara nu
 
+Fantastiskt jobbat, gör likadant med varje huvud i er grupp!
+
+Nu är det dags att [byta kläder](byta_kläder.md)
 
 
