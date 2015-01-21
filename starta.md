@@ -26,9 +26,11 @@ Välj sedan ett lösenord, det ska vara hemligt så berätta inte för någon. S
  * Om du har ett konto, klicka på Logga in.
  
 3. Gör den första övningen.
+4. ------------------------
 http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 
 Om den är på Engelska kan du byta språk om du klickar på den lilla jordgloben
+
 ![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/byt_spr%C3%A5k_i_scratch.png)
 
 Nu finns en övning som heter "Kom igång med Scratch" till höger i fönstret. Övningen har 13 steg.
