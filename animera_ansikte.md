@@ -24,4 +24,19 @@ Nu ska vi få huvudet att snurra av sig själv!
 
 ![](https://github.com/dntoll/scratch_coderdojo/blob/master/bilder/f%C3%B6r_alltid.png)
 
+Testa också att klicka på 15 och skriv in en annan siffra tex 1,5 eller 100, vad händer då?
+
+Nu ska vi få huvudet att vicka fram och tillbaka!
+-------------------------------------------------
+
+Dra först in den andra blå pusselbiten som vänder åt andra hållet, ändra sedan så att båda har samma siffra.
+
+Varför tror du att huvudet stannar?
+
+För att få huvudet att vicka måste vi vänta lite mellan de två olika vänd-pusselbitarna. Under "kontroll" hittar du en pusselbit som heter "vänta 1 sekunder".
+
+ * Dra ut en "vänta 1 sekunder" mitt emellan de två blå blocken
+ * klicka sedan på för alltid.
+ * Nu rycker huvudet till en gång i sekunden.
+ * Dra sedan ut en till "vänta 1 sekunder" efter det andra blå blocket så att du innanför för alltid har blå, gul, blå gul
 
