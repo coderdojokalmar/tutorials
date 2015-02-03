@@ -86,7 +86,14 @@ Väntar du en stund kommer röken ta slut. Det är för att vi skapat för mång
  
 ![](bilder/om_kant_radera.png)
  
- 
+ Bravo!
+
+Nu kan du själv snygga till din vulkan genom att till exempel:
+
+ * Göra röken lite genomskinlig
+ * Lägga till stenar som flyger ut
+ * Lägga till lava som flyter nerför berget.
+ * Få röken att åka åẗ olika håll (Titta på ![](http://scratch.mit.edu/projects/44967008/#editor)
 
 
 
