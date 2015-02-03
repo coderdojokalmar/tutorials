@@ -62,9 +62,23 @@ Klon-röken ska röra på sig
 
 Har du lite otur nu så åker din sprite uppåt men startar från fel ställe!
 
- * Sätt ut en "gå till x: [] y:[]" där du anger x och y för vulkanens mynning. Du kan hålla musen över vulkanen och se i kanten vad x och y skall vara.
+ * Sätt ut en "gå till x: [] y:[]" där du anger x och y för vulkanens mynning. Du kan hålla musen över vulkanen och se i kanten vad x och y skall vara. Min var x: 0 och y: -21
+ * Testa att klicka på den gröna knappen, om molnet inte kommer rätt kan du ändra x och y så att det blir rätt...
  
 ![](bilder/vulkanens_x_y.png)
+
+
+Mer rök!
+--------
+Nu ska vi se till att det kommer mer rök från vår vulkan.
+
+ * Du kan sätta en "för alltid" runt skapa klon av mig själv, 
+ * för att det ska komma lite mindre rök, sätt en "vänta [1] sekunder"
+ * Minska till 0.1 sekunder eller vad som passar bra för din vulkan!
+ 
+Nu borde det spruta ut rök ur vulkanen!
+
+
 
 
  
