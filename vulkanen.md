@@ -76,7 +76,19 @@ Nu ska vi se till att det kommer mer rök från vår vulkan.
  * för att det ska komma lite mindre rök, sätt en "vänta [1] sekunder"
  * Minska till 0.1 sekunder eller vad som passar bra för din vulkan!
  
-Nu borde det spruta ut rök ur vulkanen!
+Nu borde det spruta ut rök ur vulkanen! 
+
+Väntar du en stund kommer röken ta slut. Det är för att vi skapat för många kloner! Vi måste ta bort kloner som inte längre behövs!
+
+ * Lägg till en "om [] då" efter "gå [10] steg" innuti "för alltid"
+ * Lägg till en "rör [kant]" i "om [] då"
+ * Lägg till en "radera klonen" i "om [rör [kant]] då"
+ 
+![](bilder/om_kant_radera.png)
+ 
+ 
+
+
 
 
 
