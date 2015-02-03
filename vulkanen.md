@@ -64,7 +64,7 @@ Har du lite otur nu så åker din sprite uppåt men startar från fel ställe!
 
  * Sätt ut en "gå till x: [] y:[]" där du anger x och y för vulkanens mynning. Du kan hålla musen över vulkanen och se i kanten vad x och y skall vara.
  
-![](vulkanens_x_y.png)
+![](bilder/vulkanens_x_y.png)
 
 
  
