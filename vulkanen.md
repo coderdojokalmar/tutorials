@@ -10,4 +10,11 @@ Rita det eldsprutande berget
 
 Börja med att rita en fint berg som bakgrund, du behöver inte rita någon rök, den kommer vi göra sedan
 
-Klicka på [Scen] ![](bilder/scen.png)
+ * Klicka på [Scen, 1 bakgrund] 
+![](bilder/scen.png)
+
+ * Klicka sedan på bakgrund
+![](bilder/bakgrund.png)
+
+Nu kan du rita ditt bakgrundsberg, min ser ut så här:
+![](bilder/vulkan_bakgrund.png)
