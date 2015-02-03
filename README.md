@@ -10,4 +10,6 @@ Utmaningar
 Vi kommer att ge er ett antal olika utmaningar under tiden ni går hos oss.
 
 Vår första utmaning är att skapa en animerad hälsning som berättar vilka ni är och kanske vad ni vill!
- * Utmaning 1, klicka då [här!](animerad_hälsning.md)
+ * Utmaning 1, En hälsning, klicka då [här!](animerad_hälsning.md)
+ * Utmaning 2, En vulkan, klicka då  [här!](vulkanen.md)
+ * Utmaning 3, Ett spel, klicka då [här!](ett_spel.md)
