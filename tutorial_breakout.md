@@ -1,6 +1,7 @@
 # Breakout
 I denna utmaning....
 
+Fuska? Du kan titta på [färdiga lösningen](#user-content-färdiga-lösningen) direkt.
 
 ## Plattan
 Vi börjar med att skapa plattan som bollen ska studsa på.
@@ -146,4 +147,55 @@ Nu vill vi göra en ny rad så vi flyttar tillbaka _x_ till _-200_ och minskar _
 Vi väljer därför att skapa en ny repeterare som repeterar vår kod för varje rad. Fyra rader var lagom för mig.
 
 ![](bilder/tutorial_breakout/block_create8.png)
+
+Som du kanske ser så har vi en liten bugg. Knappen som vi skapar kloner av syns den också. Vi fixar det på samma sätt som i vulkanen genom att först gömma brickan och sedan för varje klon, visa igen
+
+![](bilder/tutorial_breakout/block_create9.png)
+
+
+## Få bollen att studsa mot brickorna och förstöra dem
+Kan du själv klura ut hur du ska göra för att få bollen att:
+1. Studsa mot blocken
+2. Få brickorna att försvinna när bollen studsat mot dem?
+
+Testa själv, du hittar sedan en lösning nedan.
+
+### Studsa mot brickorna
+Gå in till skriptet för bollen och titta på hur vi fick den att studsa mot plattan. Kan vi göra på motsvarande sätt för brickorna?
+
+![](bilder/tutorial_breakout/ball_skript10.png)
+
+### Få brickorna att försvinna
+I skriptet för brickorna:
+
+![](bilder/tutorial_breakout/block_create10.png)
+
+## Buggfix
+Även om vi har en fullt spelbar version nu så finns det några saker att jobba vidare på. Vi ser att det tar ett tag att rita upp alla brickor och kanske ska inte bollen starta förrän vi är klara med det. 
+
+Fundera om det finns ett sätt att tala om för bollen att börja röra sig när alla brickor är utritade? 
+
+Tips: Kan vi kanske skicka ett meddelande från brickorna till bollen på något sätt?
+
+## Färdiga lösningen
+
+Här nedanför ser du nu den färdiga lösningen:
+
+![](bilder/tutorial_breakout/block_final.png)
+
+![](bilder/tutorial_breakout/ball_final.png)
+
+![](bilder/tutorial_breakout/pad_final.png)
+
+
+## Fortsätta arbeta med spelet
+Du har nu gjort ett kul grundspel, men det finns så mycket mer roliga saker vi kan bygga ut vårt spel med:
+
+Några förslag:
+* När brickor träffas så skulle vi kunna se till att det ibland trillar ner lite bonusar i form av elaka saker som gör att vår platta blir mindre, eller bra saker som gör den större.
+* Kanske skulle vi ha lite meddelanden till vår spelara där det står "Game Over" när spelet är slut?
+* På något sätt ta reda på när alla brickor är borta och då skriva att man vann?
+
+För inspiration kan du söka på "Breakout" på scratch eller titta på [vår version](http://scratch.mit.edu/projects/45924598/).
+
 
