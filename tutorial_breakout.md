@@ -23,6 +23,8 @@ Rita nu en fyrkant och fyll den med en färg.
 
 ![](bilder/tutorial_breakout/pad1.png)
 
+Du kan nu namnge plattan så att den inte heter "Sprite2". Högerklicka och välj "Info". Där kan du sedan ändra namn.
+
 Nu ligger plattan i mitten men vi vill ha den längst ner i mitten när spelet börjar. Gå därför in till "Skript" på plattan och tala om var den ska ligga när spelet börjar:
 
 ![](bilder/tutorial_breakout/pad_skript1.png)
