@@ -1,7 +1,11 @@
 # Breakout
-I denna utmaning....
+I denna utmaning ska du få bygga ett spel! Spelet heter Breakout och är en riktig tv-spelsklassiker. Du kan se hur spelet kan komma att se ut när du är klar: [Testa Breakout](http://scratch.mit.edu/projects/45924598/)
 
-Fuska? Du kan titta på [färdiga lösningen](#user-content-färdiga-lösningen) direkt.
+Testa spelet och fundera lite över vilka delar som finns:
+* Vad ska spelaren kunna kontrollera?
+* Vad ska finnas från början, innan spelet startar?
+
+_Fuska? Du kan titta på [färdiga lösningen](#user-content-färdiga-lösningen) direkt._
 
 ## Plattan
 Vi börjar med att skapa plattan som bollen ska studsa på.
@@ -19,7 +23,7 @@ Rita nu en fyrkant och fyll den med en färg.
 
 ![](bilder/tutorial_breakout/pad1.png)
 
-Nu ligger palattan i mitten men vi vill ha den längst ner i mitten när spelet börjar. Gå därför in till "Skrip" på plattan och tala om var den ska ligga när spelet börjar:
+Nu ligger plattan i mitten men vi vill ha den längst ner i mitten när spelet börjar. Gå därför in till "Skript" på plattan och tala om var den ska ligga när spelet börjar:
 
 ![](bilder/tutorial_breakout/pad_skript1.png)
 
@@ -195,6 +199,9 @@ Några förslag:
 * När brickor träffas så skulle vi kunna se till att det ibland trillar ner lite bonusar i form av elaka saker som gör att vår platta blir mindre, eller bra saker som gör den större.
 * Kanske skulle vi ha lite meddelanden till vår spelara där det står "Game Over" när spelet är slut?
 * På något sätt ta reda på när alla brickor är borta och då skriva att man vann?
+* Kanske skulle man kunna göra en ny bana när denna är färdig?
+* Vi borde kanske ha tre liv och inte bara ett?
+* Bollen studsar lite tråkigt just nu. Kan vi lägga till en viss slumpfaktor så att bollen inte studsar "perfekt" varje gång?
 
 För inspiration kan du söka på "Breakout" på scratch eller titta på [vår version](http://scratch.mit.edu/projects/45924598/).
 
