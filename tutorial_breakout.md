@@ -204,6 +204,7 @@ Några förslag:
 * Kanske skulle man kunna göra en ny bana när denna är färdig?
 * Vi borde kanske ha tre liv och inte bara ett?
 * Bollen studsar lite tråkigt just nu. Kan vi lägga till en viss slumpfaktor så att bollen inte studsar "perfekt" varje gång?
+* Lägg tillljudeffekter när bollen studsar på plattan, träffar en bricka och brinner upp i lavan. 
 
 För inspiration kan du söka på "Breakout" på scratch eller titta på [vår version](http://scratch.mit.edu/projects/45924598/).
 
