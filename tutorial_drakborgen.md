@@ -86,7 +86,7 @@ Nu sätter vi ut målet. Vi gör på samma sätt som med spelaren. Vi skapar en 
 
 ![](bilder/tutorial_drakborgen/bakgrund5.png)
 
-![](bilder/tutorial_drakborgen/mål1.png)
+![](bilder/tutorial_drakborgen/mal1.png)
 
 ![](bilder/tutorial_drakborgen/overview1.png)
 
