@@ -1,6 +1,8 @@
 # Drakborgen
 I denna utmaning ska vi göra ett häftigt spel! Dragborgen där du som spelare ska guida en katt genom drakens borg. Men akta dig så att inte draken tar dig!
 
+Här hittar du en [version av spelet](http://scratch.mit.edu/projects/50419786/).
+
 ## Spelplanen
 Vi börjar med att skapa en bakgrund som vi döper till "Bana1"
 
@@ -24,6 +26,7 @@ Viktigt! Döp dem till:
 Vi måste se till att alla objekt startar på rätt ställe. Vi börjar med att placera ut spelaren. 
 
 Sätt muspekaren där du vill ha spelaren och se vilken x/y-koordinat som är där.
+
 ![](bilder/tutorial_drakborgen/spelare0.png)
 
 Gå till bakgrundens Skriptflik och tala om att när spelet startar så ska vi byta bakgrund till "Bana1". (Detta blir viktigt senare)
@@ -94,6 +97,7 @@ När vår spelare kommer till målet så ska vi skicka ett meddelande om att vi 
 Nu kan vi enkelt göra en ny bana.
 
 Rita en ny bakgrund. Döp den till "Bana2". Gör den lite svårare och kanske åt andra hållet.
+
 ![](bilder/tutorial_drakborgen/bakgrund6.png)
 ![](bilder/tutorial_drakborgen/bakgrund7.png)
 
@@ -124,25 +128,10 @@ Observera att vi skapade två nya variabler, drakeX och drakeY för att tala om 
 ##Utöka spelet
 Nu kan du utöka spelet. Det finna massvis med grejor man kan göra
 
+Lätt:
+* Gör fler spännande banor. Kanske måste man springa igenom drakens stora rum.
+
+Knepigt:
 * Skapa en timer så att man ska försöka få så kort tid som möjligt på banorna
 * Lägg till en skatt som draken vaktar som man måste hämta, eller så räknas tiden ner när man hittar skatten.
 * Speciella hinder som rör sig i banan. Dörrar som öppnas och stängs?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dsdsd
-
