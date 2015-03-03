@@ -13,3 +13,4 @@ Vår första utmaning är att skapa en animerad hälsning som berättar vilka ni
  * Utmaning 1, En hälsning, klicka då [här!](animerad_hälsning.md)
  * Utmaning 2, En vulkan, klicka då  [här!](vulkanen.md)
  * Utmaning 3, Ett spel, klicka då [här!](tutorial_breakout.md)
+ * Utmaning 4, Ett spel till, klicka då [här!](tutorial_drakborgen.md)
