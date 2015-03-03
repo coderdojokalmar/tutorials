@@ -58,8 +58,91 @@ Nu vill vi få katten (musen?) att följa efter vår muspekare.
 
 ![](bilder/tutorial_drakborgen/spelare4.png)
 
-Vi vill dock inte att spelaren ska följa efter muspekaren dirket när vi startar spelet så vi lägger till att man måste klicka på katten.
+Vi vill dock inte att spelaren ska följa efter muspekaren direkt när vi startar spelet så vi lägger till att man måste klicka på katten.
 
 ![](bilder/tutorial_drakborgen/spelare5.png)
 
+Nu ska vi se till att spelet tar slut om vi rör kanten. Men först gömmer vi vår drake och vårt mål så länge:
+
+![](bilder/tutorial_drakborgen/gom.png)
+
+Skicka meddelandet "gameover" om spelaren rör kanten
+
+![](bilder/tutorial_drakborgen/spelare5.png)
+
+Vi talar på bakgrunden om att hela spelet ska stannas om det blir Game over
+
+![](bilder/tutorial_drakborgen/bakgrund4.png)
+
+Och så skapar vi oss en ny sprajt som vi kan visa och tala om att spelet är slut.
+
+![](bilder/tutorial_drakborgen/gameover.png)
+
+### Målet
+Nu sätter vi ut målet. Vi gör på samma sätt som med spelaren. Vi skapar en X- och en Y-variabel och sätter dess värden till där vi vill ha målet. 
+
+![](bilder/tutorial_drakborgen/bakgrund5.png)
+
+![](bilder/tutorial_drakborgen/mål1.png)
+
+![](bilder/tutorial_drakborgen/overview1.png)
+
+När vår spelare kommer till målet så ska vi skicka ett meddelande om att vi ska skapa en ny bana.
+
+![](bilder/tutorial_drakborgen/spelare7.png)
+
+Nu kan vi enkelt göra en ny bana.
+
+Rita en ny bakgrund. Döp den till "Bana2". Gör den lite svårare och kanske åt andra hållet.
+![](bilder/tutorial_drakborgen/bakgrund6.png)
+![](bilder/tutorial_drakborgen/bakgrund7.png)
+
+Nu måste vi se till att när man klarat en bana så ska nästa "laddas". 
+
+![](bilder/tutorial_drakborgen/bakgrund8.png)
+
+Men, nu ligger ju målet och katten kvar på samma ställe som förra gången. Vi måste flytta dem när en ny bana laddas. Vi behöver *kopiera* *startvillkoren* för vår spelare och vårt mål. På bakgrunden kopierar vi därför dessa.
+
+![](bilder/common/kopiera.png)
+
+![](bilder/tutorial_drakborgen/bakgrund9.png)
+
+Sedan byter vi till "Bana2" och ändrar X- och Y-värdena till de som vi vill att vår objekt ska ha när banan startar.
+
+![](bilder/tutorial_drakborgen/bakgrund10.png)
+
+## Draken
+Är det för lätt? Kanske kan du lägga till en drake som flyger omkring på banan och om den rör vår spelare så blir det Game Over. Klarar du det själv?
+
+Försök gärna själv. Annars har du lösningen nedan:
+
+![](bilder/tutorial_drakborgen/bakgrund11.png)
+![](bilder/tutorial_drakborgen/drake1.png)
+
+Observera att vi skapade två nya variabler, drakeX och drakeY för att tala om var draken skulle börja. Sedan har vi lite kod för att få draken att röra sig lite oregelbundet och studsa mot väggarna. Draken tål de varma väggarna!
+
+##Utöka spelet
+Nu kan du utöka spelet. Det finna massvis med grejor man kan göra
+
+* Skapa en timer så att man ska försöka få så kort tid som möjligt på banorna
+* Lägg till en skatt som draken vaktar som man måste hämta, eller så räknas tiden ner när man hittar skatten.
+* Speciella hinder som rör sig i banan. Dörrar som öppnas och stängs?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dsdsd
 
