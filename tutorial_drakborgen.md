@@ -71,7 +71,7 @@ Nu ska vi se till att spelet tar slut om vi rör kanten. Men först gömmer vi v
 
 Skicka meddelandet "gameover" om spelaren rör kanten
 
-![](bilder/tutorial_drakborgen/spelare5.png)
+![](bilder/tutorial_drakborgen/spelare6.png)
 
 Vi talar på bakgrunden om att hela spelet ska stannas om det blir Game over
 
