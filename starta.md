@@ -8,7 +8,7 @@ Gå till scratch.mit.edu
 http://scratch.mit.edu/
 
 Att byta språk till svenska gör man allra längst ner på sidan.
-![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/byt_spr%C3%A5k_p%C3%A5_hemsidan.png)
+![](bilder/byt_spr%C3%A5k_p%C3%A5_hemsidan.png)
 
 Skapa konto och logga in
 ---------------------------
@@ -31,13 +31,13 @@ http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 
 Om den är på Engelska kan du byta språk om du klickar på den lilla jordgloben
 
-![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/byt_spr%C3%A5k_i_scratch.png)
+![](bilder/byt_spr%C3%A5k_i_scratch.png)
 
 Nu finns en övning som heter "Kom igång med Scratch" till höger i fönstret. Övningen har 13 steg.
 
 Klicka på "1. Börja med rörelse"
 
-![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/f%C3%B6rsta_%C3%B6vningen.png)
+![](bilder/f%C3%B6rsta_%C3%B6vningen.png)
 
 Följ alla 13 stegen!
 

@@ -9,17 +9,32 @@ Om du inte har gjort ett konto ännu kan du gå till [start](starta.md)
 
 Ta en bild och byt ut katten mot ett huvud.
 ------------------------------
- * Högerklicka på katten och välj radera.
- * Välj sedan den lilla kameran (Ny sprite från kameran).
- * Webbkameran på din dator måste vara igång, det brukar komma upp en dialogruta i övre delen av fönstret, klicka "Allow eller Tillåt". Om detta inte går fråga en mentor!
- * När du kan se dig i det lilla kamerafönstret, titta in i kameran och klicka spara.
+ ![](bilder/common/tabort_katt.png)
+ 
+ Högerklicka på katten och välj radera.
+ 
+ ![](bilder/common/ny_sprite_kamera.png)
+
+Välj sedan den lilla kameran (Ny sprite från kameran).
+
+Webbkameran på din dator måste vara igång, det brukar komma upp en dialogruta i övre delen av fönstret, klicka "Allow eller Tillåt". Om detta inte går fråga en mentor!
+
+När du kan se dig i det lilla kamerafönstret, titta in i kameran och klicka spara.
 
 Ta bort bakgrund
 ----------------
 Du har nu fått en ny sprite, men antagligen är det mer än ditt huvud i bilden.
 För att ta bort bakgrunden kring ditt huvud. 
- * välj Klädslar (Mellan Script och Ljud), här är en enkel bildredigerare där man kan rita.
- * välj Radera, nu har du ett suddgummi!
+ 
+
+ * välj Klädslar (Mellan Script och Ljud), här är en enkel bildredigerare där man kan rita. 
+
+![](bilder/common/kladslar.png)
+
+ * välj Radera, nu har du ett suddgummi! 
+ 
+![](bilder/common/radera.png)
+ 
  * Gör suddgummit större genom att öka bredden, det finns en kontroll för det långt ner i fönstret.
  
 ![](https://raw.githubusercontent.com/dntoll/scratch_coderdojo/master/bilder/suddgummi_bredd.png)
